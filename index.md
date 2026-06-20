@@ -36,7 +36,7 @@ Focus: environment-based configuration, NoSQL query sanitization, role-based acc
 
 ## Portfolio Status
 
-The professional self-assessment, code review, and artifact overview pages are complete. Original and enhanced source packages and narratives will be added for the final Module Seven portfolio submission.
+The professional self-assessment, code review, artifact pages, web narratives, and core source files are available. The final portfolio package also contains the complete original and enhanced source sets together with PDF and Word versions of the three submitted narratives.
 
 ---
 
