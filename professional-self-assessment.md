@@ -1,8 +1,3 @@
----
-layout: default
-title: Professional Self-Assessment
----
-
 # Professional Self-Assessment
 
 Completing the Computer Science program and developing this ePortfolio has given me the opportunity to reflect on how my technical skills, professional goals, and understanding of computing have evolved. When I entered the program, my primary focus was learning how to build functional software and strengthen my programming foundation. Through coursework in software development, testing, algorithms, databases, graphics, and secure coding, I developed a broader perspective. I learned that effective computing solutions must not only function correctly, but also be maintainable, efficient, secure, documented, and aligned with organizational needs. My ePortfolio demonstrates this growth through three enhancements that address software engineering, algorithms and data structures, and database security.
@@ -22,5 +17,3 @@ Together, the three artifacts demonstrate the five Computer Science program outc
 The artifacts in this ePortfolio work together as a unified demonstration of my growth. The CS 330 artifact shows how I improved a software system's maintainability and reliability. The CS 320 artifact demonstrates how I evaluated data structures and optimized a computing solution based on performance needs. The CS 340 artifact shows how I applied secure database practices and governance-oriented thinking to a user-facing application. Together, they represent my transition from focusing primarily on functional software development toward creating secure, efficient, maintainable, and auditable systems.
 
 As I move forward, I plan to continue building technical knowledge in cybersecurity, cloud security, IT audit, risk management, and GRC. My study of emerging areas such as artificial intelligence governance and Zero-Trust security has reinforced the importance of combining technical expertise with responsible oversight. This ePortfolio provides evidence of my ability to analyze systems, identify weaknesses, justify improvements, communicate technical decisions, and design computing solutions with security and organizational value in mind.
-
-[Back to portfolio home](./)
