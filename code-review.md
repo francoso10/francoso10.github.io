@@ -1,8 +1,3 @@
----
-layout: default
-title: Code Review
----
-
 # Code Review
 
 ## CS 499 Code Review Video
@@ -18,5 +13,3 @@ This narrated code review evaluates the original state of the three artifacts in
 - **Databases:** CS 340 Grazioso Salvare Dashboard using Python and MongoDB
 
 The review addresses software structure, maintainability, performance, validation, security, testing, documentation, and planned enhancements across the three categories.
-
-[Back to portfolio home](./)
