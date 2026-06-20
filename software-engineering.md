@@ -1,8 +1,3 @@
----
-layout: default
-title: Software Engineering and Design
----
-
 # Software Engineering and Design
 
 ## CS 330 OpenGL Castle Scene
@@ -36,5 +31,3 @@ The original scene functioned correctly, but much of the scene configuration and
 **Outcome 4:** The enhancement uses data-driven configuration, structured logging, and modular rendering helpers to improve maintainability and extensibility.
 
 **Outcome 5:** Validation, safe resource handling, pointer checks, and fallback texture behavior reduce the risk of undefined behavior and improve reliability.
-
-[Back to portfolio home](./)
