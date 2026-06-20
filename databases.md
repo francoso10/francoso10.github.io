@@ -1,8 +1,3 @@
----
-layout: default
-title: Databases
----
-
 # Databases
 
 ## CS 340 Grazioso Salvare Dashboard
@@ -46,5 +41,3 @@ The dashboard uses read-only access while higher-risk operations require elevate
 **Outcome 4:** The enhancement applies practical configuration, authorization, validation, and indexing techniques to a full-stack application.
 
 **Outcome 5:** Environment-based configuration, query sanitization, least privilege, and safer database operations strengthen security.
-
-[Back to portfolio home](./)
