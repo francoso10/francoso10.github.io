@@ -25,6 +25,7 @@ The original scene functioned correctly, but much of the scene configuration and
 - [Enhanced Logger.h](artifacts/cs330-opengl-castle-scene/enhanced/Logger.h)
 - [Enhanced scene_config.json](artifacts/cs330-opengl-castle-scene/enhanced/scene_config.json)
 - [Web enhancement narrative](artifacts/cs330-opengl-castle-scene/narrative)
+- [Complete original, enhanced, and narrative package (ZIP)](CS499_Final_Portfolio_Artifacts.zip)
 
 ### Course Outcome Alignment
 
