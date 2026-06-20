@@ -28,6 +28,7 @@ The dual-index design uses additional memory and requires synchronization whenev
 - [Enhanced ContactService.java](artifacts/cs320-contact-service/enhanced/ContactService.java)
 - [Enhanced ContactNotFoundException.java](artifacts/cs320-contact-service/enhanced/ContactNotFoundException.java)
 - [Web enhancement narrative](artifacts/cs320-contact-service/narrative)
+- [Complete original, enhanced, test, and narrative package (ZIP)](CS499_Final_Portfolio_Artifacts.zip)
 
 ### Course Outcome Alignment
 
