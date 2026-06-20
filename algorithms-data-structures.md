@@ -1,8 +1,3 @@
----
-layout: default
-title: Algorithms and Data Structures
----
-
 # Algorithms and Data Structures
 
 ## CS 320 Contact Service
@@ -39,5 +34,3 @@ The dual-index design uses additional memory and requires synchronization whenev
 **Outcome 3:** The enhancement evaluates a performance limitation, selects a dual-index solution, and documents efficiency and maintenance trade-offs.
 
 **Outcome 5:** Input trimming, validation, guard-then-act logic, and clearer exceptions improve data integrity and make invalid states easier to prevent and diagnose.
-
-[Back to portfolio home](./)
