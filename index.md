@@ -20,15 +20,15 @@ This assessment introduces my academic growth, professional direction, and the w
 ### Code Review
 A narrated code review examines the original functionality, weaknesses, and planned improvements for all three artifacts. The final video link will be added with the completed portfolio package.
 
-### Software Engineering & Design
+### [Software Engineering & Design](software-engineering)
 **Artifact:** CS 330 OpenGL Castle Scene (C++)  
 Focus: JSON-driven configuration, structured logging, defensive programming, fallback texture handling, and maintainable rendering helpers.
 
-### Algorithms & Data Structures
+### [Algorithms & Data Structures](algorithms-data-structures)
 **Artifact:** CS 320 Contact Service (Java)  
 Focus: HashMap and TreeMap dual indexing, efficient last-name and prefix searching, consolidated updates, input validation, exceptions, and testing.
 
-### Databases
+### [Databases](databases)
 **Artifact:** CS 340 Grazioso Salvare Dashboard (Python/MongoDB)  
 Focus: environment-based configuration, NoSQL query sanitization, role-based access control, indexing, and safer dashboard behavior.
 
@@ -36,7 +36,7 @@ Focus: environment-based configuration, NoSQL query sanitization, role-based acc
 
 ## Portfolio Status
 
-The professional self-assessment is complete. The remaining artifact pages, original and enhanced code packages, narratives, and code review video are being prepared for the final Module Seven portfolio submission.
+The professional self-assessment and artifact overview pages are complete. Original and enhanced source packages, narratives, and the code review video will be added for the final Module Seven portfolio submission.
 
 ---
 
