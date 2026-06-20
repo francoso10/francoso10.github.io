@@ -1,34 +1,43 @@
 # Francisco Sousa
-**B.S. Computer Science | Southern New Hampshire University**
 
-Welcome to my professional ePortfolio, developed as part of CS 499: 
-Computer Science Capstone. This portfolio demonstrates my skills in 
-software engineering, algorithms and data structures, and database 
-security — with a focus on cybersecurity principles applied across 
-all three domains.
+**B.S. Computer Science | Southern New Hampshire University**  
+**CS 499 Computer Science Capstone**
+
+Welcome to my professional ePortfolio. This site presents work completed throughout my Computer Science program, with a focus on secure, maintainable, efficient, and auditable computing solutions.
+
+---
+
+## Professional Self-Assessment
+
+[Read my Professional Self-Assessment](professional-self-assessment)
+
+This assessment introduces my academic growth, professional direction, and the way the three artifacts below demonstrate the Computer Science program outcomes.
 
 ---
 
 ## Portfolio Contents
 
 ### Code Review
-*Coming in Module 2*
+A narrated code review examines the original functionality, weaknesses, and planned improvements for all three artifacts. The final video link will be added with the completed portfolio package.
 
-### Enhancement One — Software Engineering & Design
+### Software Engineering & Design
 **Artifact:** CS 330 OpenGL Castle Scene (C++)  
-*Coming in Module 3*
+Focus: JSON-driven configuration, structured logging, defensive programming, fallback texture handling, and maintainable rendering helpers.
 
-### Enhancement Two — Algorithms & Data Structures
+### Algorithms & Data Structures
 **Artifact:** CS 320 Contact Service (Java)  
-*Coming in Module 4*
+Focus: HashMap and TreeMap dual indexing, efficient last-name and prefix searching, consolidated updates, input validation, exceptions, and testing.
 
-### Enhancement Three — Databases
-**Artifact:** CS 340 Grazioso Salvare Animal Shelter Dashboard (Python/MongoDB)  
-*Coming in Module 5*
-
-### Professional Self-Assessment
-*Coming in Module 7*
+### Databases
+**Artifact:** CS 340 Grazioso Salvare Dashboard (Python/MongoDB)  
+Focus: environment-based configuration, NoSQL query sanitization, role-based access control, indexing, and safer dashboard behavior.
 
 ---
 
-*Last updated: May 2026*
+## Portfolio Status
+
+The professional self-assessment is complete. The remaining artifact pages, original and enhanced code packages, narratives, and code review video are being prepared for the final Module Seven portfolio submission.
+
+---
+
+*Last updated: June 2026*
