@@ -17,8 +17,8 @@ This assessment introduces my academic growth, professional direction, and the w
 
 ## Portfolio Contents
 
-### Code Review
-A narrated code review examines the original functionality, weaknesses, and planned improvements for all three artifacts. The final video link will be added with the completed portfolio package.
+### [Code Review](code-review)
+A narrated code review examines the original functionality, weaknesses, and planned improvements for all three artifacts.
 
 ### [Software Engineering & Design](software-engineering)
 **Artifact:** CS 330 OpenGL Castle Scene (C++)  
@@ -36,7 +36,7 @@ Focus: environment-based configuration, NoSQL query sanitization, role-based acc
 
 ## Portfolio Status
 
-The professional self-assessment and artifact overview pages are complete. Original and enhanced source packages, narratives, and the code review video will be added for the final Module Seven portfolio submission.
+The professional self-assessment, code review, and artifact overview pages are complete. Original and enhanced source packages and narratives will be added for the final Module Seven portfolio submission.
 
 ---
 
