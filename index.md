@@ -1,9 +1,9 @@
 # Francisco Sousa
-**Professional Portfolio**
+**Computer Science ePortfolio**
 
-**Financial Services Professional - B.S. Computer Science (Information Security) - ISC2 Certified in Cybersecurity (CC)**  
+**B.S. Computer Science | Southern New Hampshire University | CS 499 Capstone**  
 
-Welcome to my professional portfolio. This site highlights my Computer Science capstone work, including software engineering, software testing, database, and information security projects completed at Southern New Hampshire University. As I continue developing toward Risk, Compliance, and IT Audit, this portfolio will expand to include practical work in data analytics, operational controls, and risk-focused projects.
+Welcome to my Computer Science ePortfolio. This site highlights my capstone work, including software engineering, software testing, database, and information security projects completed at Southern New Hampshire University. The portfolio includes my professional self-assessment, code review, artifact enhancements, narratives, and supporting source files.
 
 ---
 
